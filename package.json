@@ -1,0 +1,26 @@
+{
+      "name": "BigNumJSON",
+      "description" : "BigNum support in JSON",
+      "keywords" : ["large", "large integer", "integer", "JSON", "parse"], 
+      "version": "0.0.1",
+      "bugs": {
+       "url": "https://github.com/cainus/BigNumJSON/issues"
+      },
+      "scripts" : {
+        "test" : "make test"
+      },
+      "maintainers": [
+        {
+          "name": "Gregg Caines",
+          "email": "gregg@caines.ca",
+          "web": "http://caines.ca"
+        } 
+      ],
+      "dependencies": {
+          "bignum" : "0.5.1"
+      },
+      "devDependencies" : {
+          "mocha" : "1.3.0",
+          "should" : "0.3.2"
+      }
+}
