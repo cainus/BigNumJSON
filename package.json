@@ -1,5 +1,5 @@
 {
-      "name": "BigNumJSON",
+      "name": "bignum-json",
       "description" : "BigNum support in JSON",
       "keywords" : ["large", "large integer", "integer", "JSON", "parse"], 
       "version": "0.0.1",
